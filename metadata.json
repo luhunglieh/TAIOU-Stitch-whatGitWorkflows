@@ -1,0 +1,8 @@
+{
+  "name": "TAIOU website design from Stitch",
+  "description": "一個專業且充滿現代感的 AI 產業入口平台，包含工會發展沿革及聯絡捐款資訊。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
